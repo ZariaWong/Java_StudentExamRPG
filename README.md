@@ -1,11 +1,9 @@
----------------------Introduction--------------------------
-
+# Introduction
 The storyline of a certain role-playing game is that a student wanted to break into the general 
 office to steal the final examination paper. A security guard discovered and a combat took place 
 in our general office.
 
---------------------Classes--------------------------------
-
+# Classes
 Therea are three classes to model some characters, which will enter a combat 
 with each other.
 There are two kinds of characters – SecurityGuard and Student. Both of them are holding laser 
